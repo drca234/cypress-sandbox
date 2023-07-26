@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/drca234/cypress-sandbox/issues"
   },
-  "homepage": "https://github.com/drca234/cypress-sandbox#readme"
+  "homepage": "https://github.com/drca234/cypress-sandbox#readme",
+  "devDependencies": {
+    "cypress": "^12.17.2"
+  }
 }
