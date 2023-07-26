@@ -1,0 +1,24 @@
+{
+  "name": "cypress-sandbox",
+  "version": "1.0.0",
+  "description": "A place to test Cypress code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drca234/cypress-sandbox.git"
+  },
+  "keywords": [
+    "cypress",
+    "learning",
+    "start"
+  ],
+  "author": "Daniel Carroll",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/drca234/cypress-sandbox/issues"
+  },
+  "homepage": "https://github.com/drca234/cypress-sandbox#readme"
+}
