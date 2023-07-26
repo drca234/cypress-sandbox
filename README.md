@@ -1,1 +1,1 @@
-"# cypress-sandbox" 
+# cypress-sandbox
